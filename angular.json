@@ -118,6 +118,5 @@
         }
       }
     }
-  },
-  "defaultProject": "crud-contacts-front-angular-material"
+  }
 }
